@@ -1,2 +1,2 @@
-# Hello-World
-My First Python Program .
+# Beginner-Python-Projects
+Day1-Hello World
